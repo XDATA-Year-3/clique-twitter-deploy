@@ -1,0 +1,7 @@
+{
+    "host": "10.1.93.230",
+    "database": "twitter",
+    "collection": "small",
+
+    "intentService": "http://xdataproxy.com/qcr/intents"
+}
