@@ -39,7 +39,7 @@ RUN git config --global url."https://".insteadOf git://
 # Clone the repo.
 RUN git clone https://github.com/xdata-year-3/clique-twitter && \
 cd clique-twitter && \
-git checkout c4c469f920c1c4b7d97f983a5f941490674bd6a7 && \
+git checkout bd96143664f998277088ebc7c9e7f3422859fa34 && \
 git reset --hard
 WORKDIR clique-twitter
 
